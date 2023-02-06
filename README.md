@@ -1,0 +1,2 @@
+# SQL-Odev5
+LIMIT-OFFSET Yapısı
